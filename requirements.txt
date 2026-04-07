@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
 fastapi
 uvicorn
 scikit-learn
 joblib
 numpy
 pandas
-"""
+
